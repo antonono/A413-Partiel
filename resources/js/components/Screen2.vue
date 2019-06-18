@@ -29,7 +29,7 @@ export default {
     methods: {
         setAlcohol(alcohol) {
             this.$store.commit('setAlcohol', alcohol)
-            this.$router.push('/soft')
+            this.$router.push('/softs')
         },
     }
 }

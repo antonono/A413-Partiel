@@ -14,7 +14,7 @@ export default [
         component: Screen2
     },
     {
-        path: '/soft',
+        path: '/softs',
         component: Screen3
     },
     {
